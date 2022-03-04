@@ -56,3 +56,13 @@
    * [The Network Layer](https://unexpected-fin-7b2.notion.site/Lecture-7-2c4b7734198f4acbb4c6cb4c428bc1c2)
    * [IP datagram, ARP, UDP and TCP](https://unexpected-fin-7b2.notion.site/Lecture-8-705dc6878bbc4591ac7dc8c48ae77e19)
    * [Receiver Window Management, TCP Retransmission, Principles of Congestion Control, Routing](https://unexpected-fin-7b2.notion.site/Lecture-9-6bb38c5af6ae4d188834a7f6f92b33e7)
+
+## 2nd semester
+
+* Software Engineering
+   * [Software Engineering Concepts](https://unexpected-fin-7b2.notion.site/Lecture-1-eca3574133ad450faf24bf286a22a49e)
+   * [Modeling concepts, UML](https://unexpected-fin-7b2.notion.site/Chapters-2-3-2-4-122953fafcc34147815c3856b6190453)
+
+* Web Programming
+   * [HTML](https://unexpected-fin-7b2.notion.site/Lecture-1-2438ec6e40e84b37924bf5c413653518)
+   * [CSS Basics](https://unexpected-fin-7b2.notion.site/Lecture-2-0e0ce94d466b422d9c08c925bcd4ee97)
