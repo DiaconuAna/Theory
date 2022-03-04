@@ -16,7 +16,7 @@
   [Lisp functions. Examples. Binary Trees.](https://unexpected-fin-7b2.notion.site/Lecture-9-e7f442bb24b54441a167ee65de1df65c)\
   [Evoluated definitional mechanisms.](https://unexpected-fin-7b2.notion.site/Lecture-10-f6b7ac87014645c1a19256ca84d36799)\
   [Examples of list processing using MAP functions.](https://unexpected-fin-7b2.notion.site/Lecture-11-4421ecbd8e3f4d29abfe2549d093a694)\
-    ** examples **
+  * examples **
     * [Introduction in Prolog](https://unexpected-fin-7b2.notion.site/Seminar-1-6ca3a8088d844f80b596d8b6ab99997b)\  
     * [Recursive programming in Prolog](https://unexpected-fin-7b2.notion.site/Seminar-2-13aa3b312eec46b4aba82b30ae43656b)  
     [Heterogenous lists in Prolog](https://unexpected-fin-7b2.notion.site/Seminar-3-ede4402777d84ac19c92b08cf5eb0d01)\
