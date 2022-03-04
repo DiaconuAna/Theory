@@ -38,21 +38,21 @@
    * [Indexes in SQLServer](https://unexpected-fin-7b2.notion.site/Seminar-5-10ffcc3b0ea14fb08b9151847947bc25)
 
  * Advanced Programming Methods
-   * [Java 101](https://unexpected-fin-7b2.notion.site/Java-101-afa86fe520f04d2ea4dde52e5b01492c)\
-   * [Java Basics](https://unexpected-fin-7b2.notion.site/Lecture-1-7fb5634c3bcf4bdabc7b1e99df5d43b1)\
-   * [Interfaces, Downcasting, Object Class, Exceptions](https://unexpected-fin-7b2.notion.site/Lecture-2-b9e3be3b62cf4ceba44342cb0c35e3ca)\
-   * [Generics and Collections](https://unexpected-fin-7b2.notion.site/Lecture-3-1640884549eb4920b77c12142d45c184)\
-   * [Java IO Operations](https://unexpected-fin-7b2.notion.site/Lecture-4-0cb320ebbc194263a593590961721872)\
-   * [Java Serialization and Functional Programming](https://unexpected-fin-7b2.notion.site/Lectures-5-6-74b5178424714ccda2032c15884a6c7e)\
+   * [Java 101](https://unexpected-fin-7b2.notion.site/Java-101-afa86fe520f04d2ea4dde52e5b01492c)
+   * [Java Basics](https://unexpected-fin-7b2.notion.site/Lecture-1-7fb5634c3bcf4bdabc7b1e99df5d43b1)
+   * [Interfaces, Downcasting, Object Class, Exceptions](https://unexpected-fin-7b2.notion.site/Lecture-2-b9e3be3b62cf4ceba44342cb0c35e3ca)
+   * [Generics and Collections](https://unexpected-fin-7b2.notion.site/Lecture-3-1640884549eb4920b77c12142d45c184)
+   * [Java IO Operations](https://unexpected-fin-7b2.notion.site/Lecture-4-0cb320ebbc194263a593590961721872)
+   * [Java Serialization and Functional Programming](https://unexpected-fin-7b2.notion.site/Lectures-5-6-74b5178424714ccda2032c15884a6c7e)
    * [Java Concurrency](https://unexpected-fin-7b2.notion.site/Lectures-7-8-8fcb3b927c514baf8c31da84044939e2)
 
  * Computer Networks
-   * [TCP vs UDP, The OSI Model](https://unexpected-fin-7b2.notion.site/Lecture-1-cdd74347ef0e4614a40bba89e77d927a)\
-   * [Socket Programming, TCP API](https://unexpected-fin-7b2.notion.site/Lecture-2-133efa1c9674422bab231cc644e70e3b)\
-   * [TCP API, Concurrent TCP Servers, Fork and Threads Examples](https://unexpected-fin-7b2.notion.site/Lecture-3-9dbccfba827b4fbaa826d0e36eb7fa88)\
-   * [UDP API](https://unexpected-fin-7b2.notion.site/Lecture-4-56fbda7409024e26a31272f75c24379a)\
-   * [Broadcast, Select, Protocols](https://unexpected-fin-7b2.notion.site/Lecture-5-78b4dd8b4386448981f9d9ef5b4740ac)\
-   * [Protocols. OSI reference model](https://unexpected-fin-7b2.notion.site/Lecture-6-bbbb73d8ee2e4571abc1f1ccafcb15f2)\
-   * [The Network Layer](https://unexpected-fin-7b2.notion.site/Lecture-7-2c4b7734198f4acbb4c6cb4c428bc1c2)\
-   * [IP datagram, ARP, UDP and TCP](https://unexpected-fin-7b2.notion.site/Lecture-8-705dc6878bbc4591ac7dc8c48ae77e19)\
+   * [TCP vs UDP, The OSI Model](https://unexpected-fin-7b2.notion.site/Lecture-1-cdd74347ef0e4614a40bba89e77d927a)
+   * [Socket Programming, TCP API](https://unexpected-fin-7b2.notion.site/Lecture-2-133efa1c9674422bab231cc644e70e3b)
+   * [TCP API, Concurrent TCP Servers, Fork and Threads Examples](https://unexpected-fin-7b2.notion.site/Lecture-3-9dbccfba827b4fbaa826d0e36eb7fa88)
+   * [UDP API](https://unexpected-fin-7b2.notion.site/Lecture-4-56fbda7409024e26a31272f75c24379a)
+   * [Broadcast, Select, Protocols](https://unexpected-fin-7b2.notion.site/Lecture-5-78b4dd8b4386448981f9d9ef5b4740ac)
+   * [Protocols. OSI reference model](https://unexpected-fin-7b2.notion.site/Lecture-6-bbbb73d8ee2e4571abc1f1ccafcb15f2)
+   * [The Network Layer](https://unexpected-fin-7b2.notion.site/Lecture-7-2c4b7734198f4acbb4c6cb4c428bc1c2)
+   * [IP datagram, ARP, UDP and TCP](https://unexpected-fin-7b2.notion.site/Lecture-8-705dc6878bbc4591ac7dc8c48ae77e19)
    * [Receiver Window Management, TCP Retransmission, Principles of Congestion Control, Routing](https://unexpected-fin-7b2.notion.site/Lecture-9-6bb38c5af6ae4d188834a7f6f92b33e7)
