@@ -31,4 +31,9 @@
   * [Querying Relational Databases Using SQL (II), Functional Dependencies. Normal Forms(I) ](https://unexpected-fin-7b2.notion.site/Lecture-4-4f36d838e3c1468f86fd570a5e1ac67a)
   * [Physical Structure of Databases](https://unexpected-fin-7b2.notion.site/Lecture-8-a053f3af227748ec9201d384ad707603)
   * [Indexes](https://unexpected-fin-7b2.notion.site/Lecture-9-10-Indexes-dcb3dbdbf4fd4945b4275d0cf57a071f)
+  * [Data Definition Language](https://unexpected-fin-7b2.notion.site/Seminar-1-2accdbe22b304fdf8d864d3bf15115a0)
+  * [Data Manipulation Language](https://unexpected-fin-7b2.notion.site/Seminar-2-da226e5746724cada75336ff818e532f)
+  * [Stored Procedures, Global Variables, Dynamic Execution, the Output Clause, Cursors](https://unexpected-fin-7b2.notion.site/Seminar-3-83435b39f11243abbe98baa1dd851889)
+  * [User-Defined Functions, Views, Triggers, MERGE Statement](https://unexpected-fin-7b2.notion.site/Seminar-4-f4386c8d64ec4a5a9bac2cc0b96b798a)
+  * [Indexes in SQLServer](https://unexpected-fin-7b2.notion.site/Seminar-5-10ffcc3b0ea14fb08b9151847947bc25)
 
