@@ -64,6 +64,7 @@
 * Web Programming
    * [HTML](https://unexpected-fin-7b2.notion.site/Lecture-1-2438ec6e40e84b37924bf5c413653518)
    * [CSS Basics](https://unexpected-fin-7b2.notion.site/Lecture-2-0e0ce94d466b422d9c08c925bcd4ee97)
+   * [CSS Crash Course](https://unexpected-fin-7b2.notion.site/CSS-Crash-Course-f7234556057648c0b6cce9d7aa7a323c)
 
 * Artificial Intelligence
    * [Overview and Historical Perspective, State Space Search](https://unexpected-fin-7b2.notion.site/Lectures-1-2-b723ee43b0f24bba9ff4b7738a55f428)
