@@ -68,3 +68,4 @@
 
 * Artificial Intelligence
    * [Overview and Historical Perspective, State Space Search](https://unexpected-fin-7b2.notion.site/Lectures-1-2-b723ee43b0f24bba9ff4b7738a55f428)
+   * [Solving Problems by Searching, Uninformed and Informed Search Strategies](https://unexpected-fin-7b2.notion.site/Solving-problems-by-searching-96cc55eee3044432914754e4ded5eeb7)
