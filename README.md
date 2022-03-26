@@ -60,12 +60,16 @@
 * Software Engineering
    * [Software Engineering Concepts](https://unexpected-fin-7b2.notion.site/Lecture-1-eca3574133ad450faf24bf286a22a49e)
    * [Modeling concepts, UML](https://unexpected-fin-7b2.notion.site/Chapters-2-3-2-4-122953fafcc34147815c3856b6190453)
+   * [Requirements Elicitation](https://unexpected-fin-7b2.notion.site/Lecture-3-Requirements-Elicitation-299477ba420a4b3581e7180e40be6945)
 
 * Web Programming
    * [HTML](https://unexpected-fin-7b2.notion.site/Lecture-1-2438ec6e40e84b37924bf5c413653518)
    * [CSS Basics](https://unexpected-fin-7b2.notion.site/Lecture-2-0e0ce94d466b422d9c08c925bcd4ee97)
    * [CSS Crash Course](https://unexpected-fin-7b2.notion.site/CSS-Crash-Course-f7234556057648c0b6cce9d7aa7a323c)
+   * [Javascript basics](https://unexpected-fin-7b2.notion.site/Lectures-4-5-Javascript-c0c96e534526433d81fcfa4724b27009)
+   * [jQuery](https://unexpected-fin-7b2.notion.site/jQuery-336bf3b4398744e9b5f3a8b3f2761673)
 
 * Artificial Intelligence
    * [Overview and Historical Perspective, State Space Search](https://unexpected-fin-7b2.notion.site/Lectures-1-2-b723ee43b0f24bba9ff4b7738a55f428)
    * [Solving Problems by Searching, Uninformed and Informed Search Strategies](https://unexpected-fin-7b2.notion.site/Solving-problems-by-searching-96cc55eee3044432914754e4ded5eeb7)
+   * [Evolutionary Algorithms](https://unexpected-fin-7b2.notion.site/Lectures-4-5-c3c2e5b4de5d43fea22316fea57366d1)
