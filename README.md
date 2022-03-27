@@ -61,6 +61,7 @@
    * [Software Engineering Concepts](https://unexpected-fin-7b2.notion.site/Lecture-1-eca3574133ad450faf24bf286a22a49e)
    * [Modeling concepts, UML](https://unexpected-fin-7b2.notion.site/Chapters-2-3-2-4-122953fafcc34147815c3856b6190453)
    * [Requirements Elicitation](https://unexpected-fin-7b2.notion.site/Lecture-3-Requirements-Elicitation-299477ba420a4b3581e7180e40be6945)
+   * [The Analysis Model](https://unexpected-fin-7b2.notion.site/Lecture-5-The-Analysis-Model-6da7c14e759f4b92b011e5aaeea68c88)
 
 * Web Programming
    * [HTML](https://unexpected-fin-7b2.notion.site/Lecture-1-2438ec6e40e84b37924bf5c413653518)
