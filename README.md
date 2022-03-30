@@ -74,3 +74,8 @@
    * [Overview and Historical Perspective, State Space Search](https://unexpected-fin-7b2.notion.site/Lectures-1-2-b723ee43b0f24bba9ff4b7738a55f428)
    * [Solving Problems by Searching, Uninformed and Informed Search Strategies](https://unexpected-fin-7b2.notion.site/Solving-problems-by-searching-96cc55eee3044432914754e4ded5eeb7)
    * [Evolutionary Algorithms](https://unexpected-fin-7b2.notion.site/Lectures-4-5-c3c2e5b4de5d43fea22316fea57366d1)
+ 
+* Database Management System
+  * [ADO.NET part 1](https://unexpected-fin-7b2.notion.site/Seminar-1-ec09527fc46a483b81f4c2877b0a993d)
+  * [ADO.NET part 2](https://unexpected-fin-7b2.notion.site/Seminar-2-73351f3f0ed5448c9e8318b96383b69d)
+  * [Concurrency Control in SQL Server](https://unexpected-fin-7b2.notion.site/Seminar-3-5c17bf3f142d4cc0abe2092313eafc32)
