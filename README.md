@@ -1,5 +1,12 @@
 # Theory
 
+## 1st Year
+* OOP
+  * [Introduction to C and C++](https://unexpected-fin-7b2.notion.site/Introduction-to-C-and-C-9bf4428e75e14a5bacd85efbbb99b0d1)
+  * [Memory Management, Modules, ADTs](https://unexpected-fin-7b2.notion.site/Memory-Management-Modules-ADTs-c7c227155b324ae48354633201d97011)
+  * [Classes, Objects, Important Methods, Operators](https://unexpected-fin-7b2.notion.site/Classes-Objects-Important-Methods-Operators-d069854003684f8499a82074e3cdd5dd)
+  * [Templates, STL](https://unexpected-fin-7b2.notion.site/Templates-and-C-STL-d7449fb56d324bc890a5971c47228868)
+
 ## 2nd Year
 
 ### 1st semester
