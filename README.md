@@ -6,6 +6,8 @@
   * [Memory Management, Modules, ADTs](https://unexpected-fin-7b2.notion.site/Memory-Management-Modules-ADTs-c7c227155b324ae48354633201d97011)
   * [Classes, Objects, Important Methods, Operators](https://unexpected-fin-7b2.notion.site/Classes-Objects-Important-Methods-Operators-d069854003684f8499a82074e3cdd5dd)
   * [Templates, STL](https://unexpected-fin-7b2.notion.site/Templates-and-C-STL-d7449fb56d324bc890a5971c47228868)
+  * [Inheritance](https://unexpected-fin-7b2.notion.site/Inheritance-3cc12ce98b884ed390bbddfd67e02e30)
+  * [Polymorphism](https://unexpected-fin-7b2.notion.site/Polymorphism-45dc8f82c9af4ef1b813a2860623b29b)
 
 ## 2nd Year
 
