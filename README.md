@@ -32,6 +32,7 @@
   * [Backtracking in Prolog](https://unexpected-fin-7b2.notion.site/Seminar-4-5c55aae3435c4726a8e41144becb66f9)
   * [Recursive programming in Lisp](https://unexpected-fin-7b2.notion.site/Seminar-5-ba16d231546b4b37a9508ac355bc8f68)
   * [MAP functions in Lisp](https://www.notion.so/Seminar-6-e12c3f5486f04d3489430c86f7ea75dc)
+  * [Revision](https://unexpected-fin-7b2.notion.site/Revision-sheet-dfaa15352bd54de8a0b5f5f37d98f73a?pvs=4)
 
  * Databases
    * [Querying Relational Databases Using SQL(I)](https://unexpected-fin-7b2.notion.site/Lecture-3-9160e33fc3c94702bcf6621950330f5e)
@@ -64,13 +65,14 @@
    * [IP datagram, ARP, UDP and TCP](https://unexpected-fin-7b2.notion.site/Lecture-8-705dc6878bbc4591ac7dc8c48ae77e19)
    * [Receiver Window Management, TCP Retransmission, Principles of Congestion Control, Routing](https://unexpected-fin-7b2.notion.site/Lecture-9-6bb38c5af6ae4d188834a7f6f92b33e7)
 
-## 2nd semester
+### 2nd semester
 
 * Software Engineering
    * [Software Engineering Concepts](https://unexpected-fin-7b2.notion.site/Lecture-1-eca3574133ad450faf24bf286a22a49e)
    * [Modeling concepts, UML](https://unexpected-fin-7b2.notion.site/Chapters-2-3-2-4-122953fafcc34147815c3856b6190453)
    * [Requirements Elicitation](https://unexpected-fin-7b2.notion.site/Lecture-3-Requirements-Elicitation-299477ba420a4b3581e7180e40be6945)
    * [The Analysis Model](https://unexpected-fin-7b2.notion.site/Lecture-5-The-Analysis-Model-6da7c14e759f4b92b011e5aaeea68c88)
+   * [Theory Questions](https://unexpected-fin-7b2.notion.site/A-018b07cd43294bf599762b86b1fdd226?pvs=4)
 
 * Web Programming
    * [HTML](https://unexpected-fin-7b2.notion.site/Lecture-1-2438ec6e40e84b37924bf5c413653518)
@@ -78,13 +80,69 @@
    * [CSS Crash Course](https://unexpected-fin-7b2.notion.site/CSS-Crash-Course-f7234556057648c0b6cce9d7aa7a323c)
    * [Javascript basics](https://unexpected-fin-7b2.notion.site/Lectures-4-5-Javascript-c0c96e534526433d81fcfa4724b27009)
    * [jQuery](https://unexpected-fin-7b2.notion.site/jQuery-336bf3b4398744e9b5f3a8b3f2761673)
+   * [JSP](https://unexpected-fin-7b2.notion.site/JSP-22cd14dfefe04543a617350fb0fa12e6?pvs=4)
 
 * Artificial Intelligence
    * [Overview and Historical Perspective, State Space Search](https://unexpected-fin-7b2.notion.site/Lectures-1-2-b723ee43b0f24bba9ff4b7738a55f428)
    * [Solving Problems by Searching, Uninformed and Informed Search Strategies](https://unexpected-fin-7b2.notion.site/Solving-problems-by-searching-96cc55eee3044432914754e4ded5eeb7)
-   * [Evolutionary Algorithms](https://unexpected-fin-7b2.notion.site/Lectures-4-5-c3c2e5b4de5d43fea22316fea57366d1)
+   * [Evolutionary Algorithms I](https://unexpected-fin-7b2.notion.site/Lectures-4-5-c3c2e5b4de5d43fea22316fea57366d1)
+   * [Evolutionary Algorithms II](https://unexpected-fin-7b2.notion.site/Lectures-6-7-8d6aea377d8c42fb8b299cbb43662013?pvs=4)
+   * [Fuzzy Logic](https://unexpected-fin-7b2.notion.site/Fuzzy-logic-92e8a1c4c8024ed99955428df74ceb9b?pvs=4)
+   * [Intelligent Systems](https://unexpected-fin-7b2.notion.site/Intelligent-Systems-78109097448a4a2a867744e6a5f6f917?pvs=4)
+   * [Artificial Neural Networks](https://unexpected-fin-7b2.notion.site/Artificial-Neural-Networks-76960c7a11864f60892065fcc7370f90?pvs=4)
  
 * Database Management System
   * [ADO.NET part 1](https://unexpected-fin-7b2.notion.site/Seminar-1-ec09527fc46a483b81f4c2877b0a993d)
   * [ADO.NET part 2](https://unexpected-fin-7b2.notion.site/Seminar-2-73351f3f0ed5448c9e8318b96383b69d)
   * [Concurrency Control in SQL Server](https://unexpected-fin-7b2.notion.site/Seminar-3-5c17bf3f142d4cc0abe2092313eafc32)
+  * [Concurrency Problems](https://unexpected-fin-7b2.notion.site/Concurrency-Problems-4997a95a103143f38bade2f1eb9e407e?pvs=4)
+
+## 3rd year
+
+### 1st semester
+* Mobile Applications
+ * [Jetpack Compose 101](https://unexpected-fin-7b2.notion.site/Jetpack-compose-101-05bb4e213fdf4656bfa33ccb4f980d80?pvs=4)
+ * [Room DB in Kotlin](https://unexpected-fin-7b2.notion.site/Room-DB-in-Kotlin-bdc6ce388d164ad69e442302c53c4db3?pvs=4)
+
+* Parallel and Distributed Programming
+  * [Handling Concurrency](https://unexpected-fin-7b2.notion.site/Lecture-2-Handling-Concurrency-3c06b4c2644e48cf83dbd8014ee0fd2e?pvs=4)
+  * [More Concurrency Issues](https://unexpected-fin-7b2.notion.site/Lecture-3-More-concurrency-issues-512e8113b287447486647b614a98174f?pvs=4)
+  * [MPI Programming](https://unexpected-fin-7b2.notion.site/MPI-Programming-9d10ade9ad35481bb0715661ce8efac8?pvs=4)
+  * [Distributed Protocols](https://unexpected-fin-7b2.notion.site/Distributed-Protocols-f78f67bd82a141c6ae558d405171a2ec?pvs=4)
+  * [Exercise Dump](https://unexpected-fin-7b2.notion.site/Exercise-dump-1e870952f379402bb5adce9973455f0b?pvs=4)
+
+ ### 2nd semester
+ * Software Systems Validation and Verification
+  * [Black Box Testing](https://unexpected-fin-7b2.notion.site/Black-Box-Testing-aa71e39da1e944a381e134ed4c181cd5?pvs=4)
+  * [Overall notes](https://unexpected-fin-7b2.notion.site/Lecture-Notes-7b48c9449347405a9f2b2f7fe8684570?pvs=4)
+
+* Network Systems Administration
+  * [Project](https://unexpected-fin-7b2.notion.site/Project-ba53d46e367c40a18922087aa24525d4?pvs=4)
+
+* Design Patterns
+ * [Factory Method](https://unexpected-fin-7b2.notion.site/Factory-Method-aa4abc481f604dab86c5fd59a7ed5cfd)
+ * [Factory Method - open source code example](https://unexpected-fin-7b2.notion.site/Factory-Method-example-1c83fed50868499f8c669aca47f2204d?pvs=4)
+ * [Abstract Factory Method](https://unexpected-fin-7b2.notion.site/Abstract-Factory-Method-aa18780db76841528a912f17c5e2c33f)
+ * [Singleton](https://unexpected-fin-7b2.notion.site/Singleton-Design-Pattern-f1039629b3784f0b9597192c5894912a)
+ * [Builder](https://unexpected-fin-7b2.notion.site/Builder-Design-Pattern-3e664555541749a284bd77862e9b9bd6)
+ * [Prototype](https://unexpected-fin-7b2.notion.site/Prototype-Design-Pattern-d6833cfaf6d3409797b6953d69ca0168)
+ * [Adapter](https://unexpected-fin-7b2.notion.site/Adapter-Design-Pattern-c3134e61086c4455b2d489a47a560ab2)
+ * [Adapter - open source code example](https://unexpected-fin-7b2.notion.site/Adapter-Design-Pattern-example-b40344a249f3489b889d82ce648cb383?pvs=4)
+ * [Bridge](https://unexpected-fin-7b2.notion.site/Bridge-Design-Pattern-af4ef3889f60441e8a25a4f62d6741f2)
+ * [Composite](https://unexpected-fin-7b2.notion.site/Composite-Design-Pattern-6a22221b6227446c810b3eaba53efeef)
+ * [Decorator](https://unexpected-fin-7b2.notion.site/Decorator-Design-Pattern-4244eeaece23466ea1b446e36758e617)
+ * [Facade](https://unexpected-fin-7b2.notion.site/Facade-Design-Pattern-40852402c14c45e5be69b85d6ab05146)
+ * [Flyweight](https://unexpected-fin-7b2.notion.site/Flyweight-Design-Pattern-e00e86447b4d445da0852732e7fd5a0c)
+ * [Proxy](https://unexpected-fin-7b2.notion.site/Proxy-Design-Pattern-d91a5210ecfa401dafcaf3d3dc4c66db)
+ * [Chain of Responsibility](https://unexpected-fin-7b2.notion.site/Chain-of-Responsibility-Design-Pattern-0c0a11b7b4fa44b18aaea6e589afd638)
+ * [Command](https://unexpected-fin-7b2.notion.site/Command-Design-Pattern-f9023a324687497e90f7ef8c116c03a4)
+ * [Command - open source code example](https://unexpected-fin-7b2.notion.site/Command-Design-Pattern-example-0311a67791104c85a3b056caad01b624?pvs=4)
+ * [Iterator](https://unexpected-fin-7b2.notion.site/Iterator-Design-Pattern-81e4275f5e0f41dda7aa99bb5b76db82)
+ * [Mediator](https://unexpected-fin-7b2.notion.site/Mediator-Design-Pattern-dc6577b250184839bc9834315ab6ba74)
+ * [Memento](https://unexpected-fin-7b2.notion.site/Memento-Design-Pattern-da7a405bfc904e2a8c7f531daa9196d8)
+ * [Observer](https://unexpected-fin-7b2.notion.site/Observer-Design-Pattern-04b1f072fedf464ea2ac6efc2894eaa5)
+ * [State](https://unexpected-fin-7b2.notion.site/State-Design-Pattern-19dc31586c794925b1c918cddaec61bd)
+ * [Strategy](https://unexpected-fin-7b2.notion.site/Strategy-Design-Pattern-d9ef0833d13048b086fcc53c4784a996)
+ * [Template](https://unexpected-fin-7b2.notion.site/Template-Design-Pattern-5f484241088d42ccb77a0e397f52e3b1)
+ * [Visitor](https://unexpected-fin-7b2.notion.site/Visitor-Design-Pattern-c3ccc78cea36427a9507bd6f851f72ac)
+
